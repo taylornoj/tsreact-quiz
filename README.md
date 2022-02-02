@@ -3,6 +3,7 @@
 
  Visit https://taylornoj.github.io/tsreact-quiz/ to play!
 
+![gif of app](https://github.com/taylornoj/tsreact-quiz/blob/main/src/images/tsreact-quiz.gif?raw=true)
 ***
 
 I am currently teaching myself TypeScript, so decided to follow along with Thomas Weibenfalk's tutorial for this project. His Youtube Channel can be found here: https://www.youtube.com/weibenfalk
