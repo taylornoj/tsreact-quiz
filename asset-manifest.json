@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.js": "/tsreact-quiz/static/js/main.7ad40bd9.js",
+    "static/js/787.7a76f074.chunk.js": "/tsreact-quiz/static/js/787.7a76f074.chunk.js",
+    "static/media/luke-chesser-background.jpg": "/tsreact-quiz/static/media/luke-chesser-background.4d8792c0a1961ad1e19b.jpg",
+    "index.html": "/tsreact-quiz/index.html",
+    "main.7ad40bd9.js.map": "/tsreact-quiz/static/js/main.7ad40bd9.js.map",
+    "787.7a76f074.chunk.js.map": "/tsreact-quiz/static/js/787.7a76f074.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.7ad40bd9.js"
+  ]
+}
